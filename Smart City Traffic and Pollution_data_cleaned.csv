@@ -1,0 +1,6 @@
+Brand,Model,Top Speed (km/h),Battery Capacity (kWh),Battery Type,No. of Cells,Torque (Nm),Efficiency (Wh/km),Range (km),Acceleration (0-100 km/h in sec)
+Tesla,Model S,250,100.0,Li-ion,7104,660,180,600,2.5
+Nissan,Leaf,144,40.0,Li-ion,192,320,173,270,7.9
+BMW,i3,150,42.2,Li-ion,96,250,150,245,7.3
+Hyundai,Kona Electric,167,64.0,Li-polymer,294,395,157,450,7.6
+Kia,EV6,192,77.4,Li-ion,384,605,165,528,5.2
