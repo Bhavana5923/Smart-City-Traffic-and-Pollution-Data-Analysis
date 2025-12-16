@@ -25,22 +25,23 @@ Rapid urbanization has led to increased vehicle congestion and rising air pollut
 - Highlighted locations requiring traffic optimization and pollution control measures
 
 ## 🧩 Project Structure
-Smart-City-Traffic-and-Pollution-Data-Analysis/
-│
-├── data/
-│ ├── traffic_data.csv
-│ └── pollution_data.csv
-│
-├── sql/
-│ └── queries.sql
-│
-├── notebooks/
-│ └── data_analysis.ipynb
-│
-├── dashboards/
-│ └── tableau_dashboard.twb
-│
-├── README.md
+Data Folder
+-Contains all raw and cleaned datasets related to traffic flow and air pollution, such as vehicle count, average speed, PM2.5, PM10, CO₂, and NO₂ values.
+
+Notebooks Folder
+-Includes Python Jupyter notebooks used for data cleaning, transformation, exploratory data analysis (EDA), and correlation analysis between traffic and pollution metrics.
+
+SQL Folder
+-Stores SQL scripts and queries used to create tables, insert data, and perform analytical queries in MySQL.
+
+Dashboards Folder
+-Contains Tableau dashboard files used to visualize traffic congestion patterns, pollution trends, and location-wise comparisons.
+
+Documentation
+-Includes project reports, problem statements, and supporting documents explaining the methodology and findings.
+
+README File
+-Provides an overview of the project, problem statement, technology stack, insights, and instructions to understand or run the project.
 
 ## 🚀 Outcomes
 - Enabled data-driven decision-making for urban traffic management
